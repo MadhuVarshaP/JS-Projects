@@ -11,3 +11,12 @@ The Fixed Deposit Calculator is a web-based tool developed to help users calcula
 Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/FD_Calculator)
 
 ____
+
+### DAY 2
+**OTP Generator :**
+
+The OTP Generator is a web page created for generating OTP through desired inputs. With customizable options, you have full control over the length and character types of your OTPs, ensuring maximum protection for your accounts. This makes easy in creating instant One Time Passwords(OTPs).Say goodbye to the hassle of remembering complex passwords and hello to effortless security with our OTP Generator.
+
+Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/OTP_Generator)
+
+____
