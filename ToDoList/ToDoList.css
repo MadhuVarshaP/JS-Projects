@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    background-color: rgb(224, 236, 238);
+    height: 100vh;
+}
+
+.container{
+    border: 2px solid gray;
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+    background-color: white;
+}
+
+.title{
+    background-color: #136F63;
+    display: flex;
+    flex-direction: column;
+    align-content: start;
+    color: white;
+}
+
+.tasks{
+    height: 300px;
+    margin-top: 30px;
+}
+
+.tasks #enterList{
+    width: 400px;
+    padding: 10px;
+    outline: none;
+    
+}
+
+button{
+    background-color: #3F88C5;
+    border: 1px solid green;
+    padding: 10px;
+    width: 80px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+button:hover{
+    
+}
