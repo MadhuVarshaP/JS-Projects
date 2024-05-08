@@ -1,5 +1,5 @@
 Hey guys!! 🚀 Here is my 
-# 10 Days, 10 Projects on HTML, CSS and JavaScript
+# 5 Days, 5 Projects on HTML, CSS and JavaScript
 Immersing myself in this dynamic learning experience as I am able to build interactive web applications. I can understand each concept through practical exercises and real-world examples, which spark my creativity and give me the ability to turn the ideas into reality.
 
 ## Project Showcase:
