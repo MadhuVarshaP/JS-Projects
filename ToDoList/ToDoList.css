@@ -25,7 +25,7 @@ body{
 }
 
 .tasks{
-    height: 300px;
+    height: auto;
     margin-top: 30px;
 }
 
@@ -36,9 +36,9 @@ body{
     
 }
 
-button{
+#addTodoBtn{
     background-color: #3F88C5;
-    border: 1px solid green;
+    border: 1px solid gray;
     padding: 10px;
     width: 80px;
     cursor: pointer;
@@ -46,6 +46,31 @@ button{
     color: white;
 }
 
-button:hover{
-    
+button{
+    padding: 5px;
+    background-color: rgb(216, 37, 37);
+    font-weight: 900;
+    font-size: 18px;
+    color: white;
+    border: 1px solid gray;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 10px;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:500px;
+    background-color: #dedfe0;
+}
+
+.delete-todo-btn{
+    margin-left: auto;
+    margin-right: 10px;
 }
