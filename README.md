@@ -20,3 +20,13 @@ The OTP Generator is a web page created for generating OTP through desired input
 Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/OTP_Generator)
 
 ____
+
+### DAY 3
+**To Do List :**
+
+"Stay Organized, Stay Productive: Your Personal To-Do List Manager"
+This is a simple web application for managing to-do lists. Users can easily add, delete, and edit tasks as they wish. The application provides a clean and intuitive interface for organizing tasks and ensuring productivity.
+
+Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/ToDoList)
+
+____
