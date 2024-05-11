@@ -46,3 +46,13 @@ Welcome to my Expense Tracker! This efficient tool streamlines financial managem
 Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/Expense_Tracker)
 
 ---
+
+### DAY 5
+
+**Calculator :**
+
+Crafted this Calculator application to simplify computations. Harness the power of code for swift and accurate results. Simplify your math tasks with intuitive design and seamless functionality. 
+
+Click here to visit my code: [Project Link](https://github.com/MadhuVarshaP/JS-Projects/tree/main/Calculator)
+
+---
